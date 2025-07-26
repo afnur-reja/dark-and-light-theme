@@ -35,3 +35,7 @@ h1 {
     background-color: black;
     color: #e1e0e0;
 }
+
+body, .container {
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
